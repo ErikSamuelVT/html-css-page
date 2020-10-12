@@ -1,5 +1,5 @@
 # html-css-page
-![TapMusic](https://user-images.githubusercontent.com/61395827/91670815-9c11a080-eae6-11ea-94a7-95100f4bccd0.png)
+![Preview](https://user-images.githubusercontent.com/61395827/95787863-f5512000-0c9f-11eb-9cbb-ff44a5c883ac.PNG)
 
 Preview
 ## Technologies
