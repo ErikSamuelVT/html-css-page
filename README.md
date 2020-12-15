@@ -10,10 +10,8 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en tu máquin
 
 _Herramientas que necesitas para probar el proyecto._
 
-```
-VSCode: https://code.visualstudio.com/download - Descarga desde aquí!
-LiveServer: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer - Extensión de VSCode
-```
+* [VSCode](https://code.visualstudio.com/download) - Descarga desde aquí!
+* [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Extensión de VSCode
 
 ### Instalación 🔧
 
